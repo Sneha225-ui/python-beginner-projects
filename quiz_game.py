@@ -1,7 +1,7 @@
 questions = (("Which keyword is used to create a function in python ? :"),
              ("Which of the folowing is an output device ? :"),
              ("Which data type stores multiple terms in a single variable ? :"),
-             ("Wwhich python collection does not allow duplocate value ? :"),
+             ("Which python collection does not allow duplicate value ? :"),
              ("which of the folowing is mutuable ? :"))
 
 options = (("A. function","B. define","C. def","D. func"),
